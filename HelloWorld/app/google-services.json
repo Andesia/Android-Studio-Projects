@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514755291439",
+    "project_id": "my-fire-5da5f",
+    "storage_bucket": "my-fire-5da5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514755291439:android:202d6b9f7fc06cf76a19da",
+        "android_client_info": {
+          "package_name": "com.lihasi.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514755291439-93u3hhh5in7e1iamk3edee16tpf3q50i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9MMYCdf62389NLMHPvHpWU7KbrCAnZ38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514755291439-93u3hhh5in7e1iamk3edee16tpf3q50i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
